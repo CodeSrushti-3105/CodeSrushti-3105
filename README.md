@@ -1,3 +1,4 @@
+![logo](https://github.com/CodeSrushti-3105/Srushti_Ahire/blob/master/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Srushti Ahire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
