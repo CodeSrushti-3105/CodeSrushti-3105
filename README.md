@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saahire2005@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/u/5/my-drive
+- 📄 Know about my experiences https://drive.google.com/file/d/1UIUQV99VQBW7kxjR4aESwL5AGrXDO4fY/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
