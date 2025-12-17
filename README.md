@@ -1,6 +1,6 @@
 ![logo](https://github.com/CodeSrushti-3105/Srushti_Ahire/blob/master/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Srushti Ahire</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesrushti-3105&label=Profile%20views&color=0e75b6&style=flat" alt="codesrushti-3105" /> </p>
