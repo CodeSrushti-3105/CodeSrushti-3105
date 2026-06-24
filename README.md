@@ -21,7 +21,7 @@
 
 # 🚀 About Me
 
-🚀 I'm **Srushti Ahire**, a Computer Science student at **K. K. Wagh Institute of Engineering Education and Research, Nashik** with a **CGPA of 8.83/10**. 💡 Passionate about building scalable software and solving real-world problems, I specialize in Full Stack Development, Backend Systems, and AI-powered applications. 🔥 With **500+ DSA problems solved**, 🌟 **20+ Open Source PRs merged**, and 🏆 participation in multiple hackathons, I enjoy turning ideas into impactful products using FastAPI, React, TypeScript, and PostgreSQL. 📚 I'm constantly exploring new technologies, improving my problem-solving skills, and growing as a developer every day.
+🚀 I'm **Srushti Ahire**, a Computer Science student at **K. K. Wagh Institute of Engineering Education and Research, Nashik** 💡 Passionate about building scalable software and solving real-world problems, I specialize in Full Stack Development, Backend Systems, and AI-powered applications. 🔥 With **500+ DSA problems solved**, 🌟 **20+ Open Source PRs merged**, and 🏆 participation in multiple hackathons, I enjoy turning ideas into impactful products using FastAPI, React, TypeScript, and PostgreSQL. 📚 I'm constantly exploring new technologies, improving my problem-solving skills, and growing as a developer every day.
 
 ---
 
@@ -76,54 +76,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest)
-
----
-
-# 👨‍💻 Featured Projects
-
-## 📅 Schedulix
-`FastAPI` • `Svelte` • `TypeScript` • `PostgreSQL` • `Docker`
-
-> Smart academic scheduling and timetable management system
-
-- Built a centralized scheduling platform for managing faculty, subjects, classrooms, and academic timetables.
-- Implemented automated conflict detection to prevent overlapping lectures and resource allocation issues.
-- Developed robust validation logic, database migrations, and testing workflows using Pytest and Vitest.
-- Containerized the application with Docker for streamlined deployment and scalability.
-
----
-
-## 🎓 S.B. Classes LMS
-`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
-
-> Full-stack learning management system for students and educators
-
-- Developed a role-based Physics LMS supporting students, teachers, and administrators.
-- Built modules for study materials, online tests, batch management, and result tracking.
-- Implemented secure JWT authentication and authorization for protected resources.
-
----
-
-## 🚗 Urban Mobility
-`ReactJS` • `Firebase` • `Firestore` • `Figma`
-
-> Smart vehicle rental and booking platform
-
-- Built a full-stack car rental application during a hackathon with real-time booking capabilities.
-- Integrated Firebase Authentication and Firestore for secure user and inventory management.
-- Enabled real-time vehicle availability updates for improved user experience.
-
----
-
-## 🌍 KKW Conference Portal
-`ReactJS` • `JavaScript` • `CSS` • `Netlify`
-
-> International conference management and registration platform
-
-- Developed a responsive website for conference registrations, event updates, and participant management.
-- Implemented dynamic registration forms with real-time validation and user-friendly workflows.
-- Built interactive event schedules showcasing sessions, speakers, and conference activities.
-- Deployed the platform on Netlify ensuring fast performance and accessibility.
 
 ---
 
