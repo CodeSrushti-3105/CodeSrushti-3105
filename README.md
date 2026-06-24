@@ -2,7 +2,11 @@
 
 # Hi 👋, I'm Srushti Ahire
 
-### 🚀 Full Stack Developer • Open Source Contributor • Computer Science Student
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🌟+Open+Source+Contributor;🧩+Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=CodeSrushti-3105&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
@@ -17,31 +21,7 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Student at **K.K. Wagh Institute of Engineering Education and Research, Nashik**
-
-📊 Current CGPA: **8.54/10**
-
-💻 Full Stack Developer with strong interest in **Backend Engineering, FastAPI, MERN Stack and Open Source**
-
-🔥 Solved **500+ DSA Problems** across coding platforms
-
-🌱 Currently learning **FastAPI, Docker, System Design and Testing**
-
-🏆 GSSoC Contributor with **20+ Merged Pull Requests**
-
-⚡ Passionate about building scalable applications and solving real-world problems
-
----
-
-# 💻 What I Build
-
-- 🌐 Full Stack Web Applications
-- ⚙️ REST APIs using FastAPI & Node.js
-- 🤖 AI Powered Learning Platforms
-- 🔐 Authentication & Authorization Systems
-- 🗄️ Database Driven Applications
-- 📈 Dashboard & Analytics Platforms
-- 🚀 Open Source Contributions
+🚀 I'm **Srushti Ahire**, a Computer Science student at **K. K. Wagh Institute of Engineering Education and Research, Nashik** with a **CGPA of 8.83/10**. 💡 Passionate about building scalable software and solving real-world problems, I specialize in Full Stack Development, Backend Systems, and AI-powered applications. 🔥 With **500+ DSA problems solved**, 🌟 **20+ Open Source PRs merged**, and 🏆 participation in multiple hackathons, I enjoy turning ideas into impactful products using FastAPI, React, TypeScript, and PostgreSQL. 📚 I'm constantly exploring new technologies, improving my problem-solving skills, and growing as a developer every day.
 
 ---
 
@@ -99,48 +79,64 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 📚 StudyGen
-**Node.js • React • MongoDB • Ollama**
-
-AI-powered learning platform that generates quizzes from PDFs, YouTube videos and text content using adaptive learning techniques.
-
----
+# 👨‍💻 Featured Projects
 
 ## 📅 Schedulix
-**FastAPI • PostgreSQL • Docker • Svelte**
+`FastAPI` • `Svelte` • `TypeScript` • `PostgreSQL` • `Docker`
 
-Academic scheduling system with automated conflict detection and timetable management.
+> Smart academic scheduling and timetable management system
 
----
-
-## 🎓 S.B. Classes
-**React • Node.js • Express • MongoDB • JWT**
-
-Full-stack Physics LMS with authentication, batch management, tests and study materials.
+- Built a centralized scheduling platform for managing faculty, subjects, classrooms, and academic timetables.
+- Implemented automated conflict detection to prevent overlapping lectures and resource allocation issues.
+- Developed robust validation logic, database migrations, and testing workflows using Pytest and Vitest.
+- Containerized the application with Docker for streamlined deployment and scalability.
 
 ---
 
-## 🌍 International Conference Website
+## 🎓 S.B. Classes LMS
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
-**ReactJS • JavaScript • Netlify**
+> Full-stack learning management system for students and educators
 
-Conference management website with registration system, speaker profiles and event schedules.
+- Developed a role-based Physics LMS supporting students, teachers, and administrators.
+- Built modules for study materials, online tests, batch management, and result tracking.
+- Implemented secure JWT authentication and authorization for protected resources.
+- Deployed the platform using Vercel and Render with REST API testing through Postman.
 
 ---
 
-# 🏆 Achievements
+## 🚗 Urban Mobility
+`ReactJS` • `Firebase` • `Firestore` • `Figma`
 
-🥇 20+ Merged Pull Requests during GSSoC
+> Smart vehicle rental and booking platform
 
-🔥 Solved 500+ DSA Problems
+- Built a full-stack car rental application during a hackathon with real-time booking capabilities.
+- Integrated Firebase Authentication and Firestore for secure user and inventory management.
+- Designed responsive user interfaces and streamlined booking workflows.
+- Enabled real-time vehicle availability updates for improved user experience.
 
-☁ AWS Academy Cloud Certification
+---
 
-🏅 Hashgraph Developer Certification
+## 🌍 KKW Conference Portal
+`ReactJS` • `JavaScript` • `CSS` • `Netlify`
 
-🎯 Built multiple full-stack applications using modern technologies
+> International conference management and registration platform
+
+- Developed a responsive website for conference registrations, event updates, and participant management.
+- Implemented dynamic registration forms with real-time validation and user-friendly workflows.
+- Built interactive event schedules showcasing sessions, speakers, and conference activities.
+- Deployed the platform on Netlify ensuring fast performance and accessibility.
+
+---
+
+# 🏆 Achievements & Recognition
+
+- 🥇 **Top 10 Finalist** — HackOverflow 2025 Hackathon among hundreds of participating teams
+- 🚀 **Finalist** — SpectraX 2026 Hackathon for developing an AI-powered adaptive learning platform
+- 🌟 **20+ Open Source Pull Requests Merged** across multiple projects during GSSoC and community contributions
+- 🌍 **Developed & Deployed** the official International Conference Website used for registrations, schedules, and event management
+- 🔥 **Solved 500+ DSA Problems** across LeetCode, GeeksforGeeks, and other coding platforms
+- ☁️ **AWS Academy Cloud Foundations Certified**
 
 ---
 
@@ -162,11 +158,13 @@ Conference management website with registration system, speaker profiles and eve
 
 ---
 
-# 🏅 GitHub Trophies
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CodeSrushti-3105&theme=tokyonight&row=1&column=6"/>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/CodeSrushti-3105/CodeSrushti-3105/output/pacman-contribution-graph.svg)
+
+<i>My continuous coding pulse!</i>
 
 </div>
 
@@ -205,9 +203,6 @@ https://www.linkedin.com/in/srushti-ahire-87bbb1289/
 
 💻 GitHub:
 https://github.com/CodeSrushti-3105
-
-🧩 LeetCode:
-https://leetcode.com/u/Srushti_Ahire/
 
 ---
 
