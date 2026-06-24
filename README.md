@@ -101,7 +101,6 @@
 - Developed a role-based Physics LMS supporting students, teachers, and administrators.
 - Built modules for study materials, online tests, batch management, and result tracking.
 - Implemented secure JWT authentication and authorization for protected resources.
-- Deployed the platform using Vercel and Render with REST API testing through Postman.
 
 ---
 
@@ -112,7 +111,6 @@
 
 - Built a full-stack car rental application during a hackathon with real-time booking capabilities.
 - Integrated Firebase Authentication and Firestore for secure user and inventory management.
-- Designed responsive user interfaces and streamlined booking workflows.
 - Enabled real-time vehicle availability updates for improved user experience.
 
 ---
@@ -191,6 +189,15 @@
 🔹 Testing using Pytest & Vitest
 
 🔹 Building scalable full-stack applications
+
+---
+# 🎓 Education
+
+🎓 **B.Tech — Computer Science Engineering** `2024 – Present`  
+**K. K. Wagh Institute of Engineering Education and Research, Nashik** • **CGPA: 8.54/10**
+
+📚 **HSC (PCMB)** `2021 – 2023`  
+**M.S.G. College of Science, Arts and Commerce, Malegaon** • **80%**
 
 ---
 
